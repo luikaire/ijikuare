@@ -17,9 +17,9 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: '3.8'
-#    - name: Setup session
-#     # uses: lhotari/action-upterm@v1   
-#      uses: mxschmitt/action-tmate@v3
+    - name: Setup session
+      uses: lhotari/action-upterm@v1   
+      #uses: mxschmitt/action-tmate@v3
     - name: test
       run: python ghu.py 
 
