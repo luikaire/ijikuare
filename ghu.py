@@ -1,6 +1,6 @@
 import sys,time,os
 if __name__=='__main__':
-  t=5./6
-  y=7*t
-  print(y*3)
+  t=3./7
+  y=4*t
+  print(y*8)
   sys.stdout.flush();
